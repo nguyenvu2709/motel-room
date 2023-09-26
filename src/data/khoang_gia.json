@@ -1,0 +1,50 @@
+[
+    {
+        "code" : "1",
+        "value" : "Dưới 1 triệu",
+        "min_price" : 0,
+        "max_price" : 1000000
+    },
+    {
+        "code" : "2",
+        "value" : "1 triệu - 2 triệu",
+        "min_price" : 1000000,
+        "max_price" : 2000000
+    },
+    {
+        "code" : "3",
+        "value" : "2 triệu - 3 triệu",
+        "min_price" : 2000000,
+        "max_price" : 3000000
+    },
+    {
+        "code" : "4",
+        "value" : "3 triệu - 5 triệu",
+        "min_price" : 3000000,
+        "max_price" : 5000000
+    },
+    {
+        "code" : "5",
+        "value" : "5 triệu - 7 triệu",
+        "min_price" : 5000000,
+        "max_price" : 7000000
+    },
+    {
+        "code" : "6",
+        "value" : "7 triệu - 10 triệu",
+        "min_price" : 7000000,
+        "max_price" : 10000000
+    },
+    {
+        "code" : "7",
+        "value" : "10 triệu - 15 triệu",
+        "min_price" : 10000000,
+        "max_price" : 15000000
+    },
+    {
+        "code" : "8",
+        "value" : "15 triệu - 20 triệu",
+        "min_price" : 15000000,
+        "max_price" : 20000000
+    }
+]
